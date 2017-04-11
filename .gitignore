@@ -1,0 +1,7 @@
+*.zip
+*.tar.gz
+*.pickle
+*.pkl
+*.pdf
+notMNIST_*
+.ipynb_checkpoints/
